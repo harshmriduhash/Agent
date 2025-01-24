@@ -50,7 +50,7 @@ Your AI companion that goes beyond chat - powered by IBM WxTools & cutting-edge 
 
 ```bash
 git clone https://github.com/edwardbudaza/agentor.git
-cd agentor
+cd agent
 ```
 
 2. Install dependencies:
