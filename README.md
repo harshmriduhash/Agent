@@ -49,7 +49,7 @@ Your AI companion that goes beyond chat - powered by IBM WxTools & cutting-edge 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/edwardbudaza/agentor.git
+git clone https://github.com/harshmriduhash/agent.git
 cd agent
 ```
 
@@ -103,7 +103,7 @@ NEXT_PUBLIC_CONVEX_URL=https://{your-convex-url}.convex.cloud
 The project follows a standard Next.js structure:
 
 ```
-agentor/
+agent/
 ├── app/
 │   ├── layout.tsx
 │   ├── page.tsx
